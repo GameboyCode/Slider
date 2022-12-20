@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "03471436-EFBA-4932-B06F-4C9D8A844034"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "921F74AC-7C54-4F74-AEC7-00CE0F43A395"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alphabet lore/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "921F74AC-7C54-4F74-AEC7-00CE0F43A395 - c8a1def5be642018"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Silder.ContentView.height : Swift.Double"
+                  moduleName = "Silder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JRW/Desktop/Alphabet%20lore/Alphabet%20lore/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "921F74AC-7C54-4F74-AEC7-00CE0F43A395 - 4ed27c484e4467c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Silder.ContentView.height.getter : Swift.Double"
+                  moduleName = "Silder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JRW/Desktop/Alphabet%20lore/Alphabet%20lore/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "921F74AC-7C54-4F74-AEC7-00CE0F43A395 - 5599dfe25d7517d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Silder.ContentView.height.setter : Swift.Double"
+                  moduleName = "Silder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JRW/Desktop/Alphabet%20lore/Alphabet%20lore/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "921F74AC-7C54-4F74-AEC7-00CE0F43A395 - f923c42f2a558bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Silder.ContentView.height.modify : Swift.Double"
+                  moduleName = "Silder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JRW/Desktop/Alphabet%20lore/Alphabet%20lore/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "921F74AC-7C54-4F74-AEC7-00CE0F43A395 - 86088ae2523333d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Silder.ContentView.height.modify : Swift.Double with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Silder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JRW/Desktop/Alphabet%20lore/Alphabet%20lore/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "921F74AC-7C54-4F74-AEC7-00CE0F43A395 - 1106a2aba6af6ada"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Silder.ContentView.$height.getter : SwiftUI.Binding&lt;Swift.Double&gt;"
+                  moduleName = "Silder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JRW/Desktop/Alphabet%20lore/Alphabet%20lore/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "921F74AC-7C54-4F74-AEC7-00CE0F43A395 - 1824dc17d8ac3188"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Silder.ContentView.body.getter : some"
+                  moduleName = "Silder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JRW/Desktop/Alphabet%20lore/Alphabet%20lore/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "921F74AC-7C54-4F74-AEC7-00CE0F43A395 - e418f5c52f68aa7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Silder.ContentView.init() -&gt; Silder.ContentView"
+                  moduleName = "Silder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JRW/Desktop/Alphabet%20lore/Alphabet%20lore/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
